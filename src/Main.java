@@ -20,7 +20,8 @@ public class Main {
         else if (actinon== 3) {
             System.out.println("a / b = " + calculator.divide(a, b));
         } else {
-            System.out.println("a * b = " + calculator.multiple(a, b));
+            System.out.println("a * b = " + calculator.multiple(a, b) + "change");
+            
         }
     }
   }
